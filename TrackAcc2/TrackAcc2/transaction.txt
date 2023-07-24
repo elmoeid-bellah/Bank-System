@@ -1,0 +1,9 @@
+
+Started :: Transaction on: 04/12/2021 09:33 AM, type: Deposit, from: elmoeid, amount: 500.0
+	Successfully deposited
+Started :: Transaction on: 04/12/2021 09:35 AM, type: Deposit, from: elmoeid, amount: 500.0
+	Successfully deposited
+Started :: Transaction on: 04/12/2021 09:38 AM, type: Deposit, from: elmoied, amount: 1000.0
+	Successfully deposited
+Started :: Transaction on: 04/12/2021 01:20 PM, type: Deposit, from: mody, amount: 1000.0
+	Successfully deposited
